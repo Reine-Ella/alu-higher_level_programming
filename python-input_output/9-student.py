@@ -18,4 +18,3 @@ class Student:
         '''method to_json
         '''
         return self.__dict__
-                                                                                            return self.__dict__
